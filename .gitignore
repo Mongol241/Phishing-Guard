@@ -1,0 +1,25 @@
+# Environment files
+project/.env
+project/.env.*
+!.env.example
+
+# Python virtual environments
+project/.venv/
+.venv/
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local databases
+*.sqlite
+*.db
+
+# Local browser/profile data
+chrome-dev-profile/
+
+# VS Code / OS noise
+.vscode/
+.idea/
+.DS_Store
