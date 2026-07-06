@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+PyGithub
+scikit-learn
+python-dotenv
+google-generativeai
+sqlalchemy
+alembic
+pydantic-settings
+pytest
+httpx

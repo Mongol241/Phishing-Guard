@@ -1,0 +1,37 @@
+{
+   "checksum": "903b7a1cdcb36a41d680fa7a66f427e1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13427823489907551",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "5",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13427823489907551",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "6",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13427823489907551",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "7",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CuABCr8BCIiBAhK4ASAAkgGjAQqgAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJvnncgPJVBgARvnncgPJVBgAiNAkBm8iA8lUGABADGciHVpLdiJsCIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkBm8iA8lUGABADGciHVpLdiJsCIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpzRLdgPJVBgDqAQwIhIWv0gYQqMS4rQISACoYMnRPV29IK0NHQ3dGQ21lUkx3eXdHQT09SAMSwwEIBhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5UUpnQVZUbG5pWTBDZW1jUmc3djJ3eDFrV2R2WDNTdVR0WHQ3aWxMbHFJdDdkb3NlZ3BWUGpCWWJ6NTZRd1hBZm9UVncwN0VjUDV3eXV3cko2eUNDZDc1K1l3Zz09GAAgACgAMKzJ+ManvpUDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqwEIBRKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3VGc2OU9BMzcyTUc2VFVlQnJTNWJ6UDdnTzE4QXNVWEtBdkFsK1ZPcTVtRnFPdW05ektiTWFBRHFTOVpseUgzeFpNc1hBGAAgACgAMKzJ+ManvpUDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASwwEIBxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5UUhKNVd6RkphZjAvL3ZIR0hLRmYyL2pCbm15UXU4bHpVME5vOWZ2YzNPUGRQQ0RhanFjZjd5NlBoYittdDNZQ0V5ZjJxZndrYzd5bzRMR3dZZCtNMnlKczA1QT09GAAgACgAMKzJ+ManvpUDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwATgA",
+   "version": 1
+}
